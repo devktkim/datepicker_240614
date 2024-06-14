@@ -1,0 +1,11 @@
+.datepicker {
+  @apply bg-white border border-gray-300 rounded-lg shadow-lg;
+}
+
+.header {
+  @apply bg-red-500 text-black;
+}
+
+.day {
+  @apply text-red-700 hover:bg-blue-100;
+}
